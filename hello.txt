@@ -1,9 +1,3 @@
-hello  你好：
-hello ok
-hello  he
-hello:::
-hello
-hello
-hello
-hello
-hello
+hello 
+你好
+zyh
